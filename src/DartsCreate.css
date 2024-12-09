@@ -1,0 +1,59 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   
+}
+
+.h1format{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.bentiresz {
+    width: fit-content;
+    height: auto;
+    flex-direction: column;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.4);
+    padding: 30px;
+    border-radius: 10%;
+    border: 1px solid #ccc; 
+}
+
+
+.kulsoresz{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+
+label{
+    font-size: 30px;
+    margin: 0,0,0,10;
+    font-family: 'Times New Roman', Times, serif;
+}
+input {
+    padding: 16px;
+    font-size: 20px !important;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    transition: all 0.3s ease;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.felvetelgomb{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  button {
+    width: fit-content;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px !important;
+    padding: 10px 20px;
+  }
+  
+  

@@ -1,0 +1,32 @@
+.Memberlist{
+    background-color: #AEC6CF;
+    width: 300px;
+    list-style-type: none;
+}
+/*Nevek*/
+.Namestyle{
+    text-decoration: underline;
+}
+.Playernamestyle{
+    font-style: italic;
+}
+/*Szülév*/
+.Birthdatestyle{
+    text-decoration: underline;
+}
+.PlayerBirthdatesstyle{
+    font-style: italic;
+}
+/*Díjak*/
+.Worldchampwonstyle{
+    text-decoration: underline;
+}
+.PlayerWorldchampwonstyle{
+    font-style: italic;
+}
+
+/*A h1 ezen az oldalon*/
+.Dartslisth1{
+    font-style: italic;
+    font-weight: bold;
+}
